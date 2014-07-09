@@ -1,5 +1,3 @@
 __author__ = 'arkilic'
 
-from demoCSX.config.demo_confParser import *
-
-print hardware_positions_1
+from demoCSX.session_init import diffcalc_session
