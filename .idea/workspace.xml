@@ -2,177 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b419960-b2b9-479f-b1cb-57e2ae211e3d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demoCSX/commands/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demoCSX/commands/diffcalc.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demoCSX/commands/scans.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/.settings/com.wdev91.eclipse.copyright.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/.settings/org.eclipse.core.resources.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/.settings/org.eclipse.core.runtime.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/COPYING" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/buckminster.cspec" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/diffcalc_.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/gdasupport/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/gdasupport/factory.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/gdasupport/minigda/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/gdasupport/minigda/command.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/gdasupport/minigda/scannable.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/gdasupport/scannable/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/gdasupport/scannable/base.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/gdasupport/scannable/diffractometer.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/gdasupport/scannable/hkl.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/gdasupport/scannable/mock.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/gdasupport/scannable/parameter.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/gdasupport/scannable/simulation.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/gdasupport/scannable/slave_driver.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/gdasupport/scannable/vrmlanimator.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/gdasupport/scannable/wavelength.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/hardware.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/hkl/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/hkl/calcbase.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/hkl/common.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/hkl/vlieg/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/hkl/vlieg/calc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/hkl/vlieg/commands.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/hkl/vlieg/constraints.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/hkl/vlieg/geometry.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/hkl/vlieg/transform.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/hkl/willmott/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/hkl/willmott/calc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/hkl/willmott/commands.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/hkl/willmott/constraints.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/hkl/you/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/hkl/you/calc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/hkl/you/commands.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/hkl/you/constraints.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/hkl/you/geometry.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/log.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/ub/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/ub/calc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/ub/calcstate.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/ub/commands.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/ub/crystal.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/ub/persistence.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/ub/reference.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/ub/reflections.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/util.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/ACKS_diffcalc.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/Makefile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/docs-build-diffcalc_doc-linux.launch" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/references" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/source/conf.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/source/developer/ACKS.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/source/developer/contents.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/source/developer/development.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/source/developer/intro.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/source/developer/package.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/source/developer/quickstart_api.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/source/developer/quickstart_gda.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/source/developer/quickstart_scan.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/source/developer/quickstart_setup_environment" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/source/diffcalc_pdf.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/source/diffcalc_web.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/source/index.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/source/user/ACKS.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/source/user/contents.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/source/user/images/fix.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/source/user/images/sixcircle_gamma_on_arm.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/source/user/images/sixcircle_gamma_on_arm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/source/user/images/sixcircle_gamma_on_arm.ppt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/source/user/images/unit_cell.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/source/user/images/unit_cell.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/source/user/manual.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/tmp/constraints.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/tmp/extensions_to_yous_paper.wxm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/tmp/i16_non_diffcalc_manual.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/example/session/demo_fourc_diffcalc_session.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/example/startup/append_diffcalc_to_gda_jython_path.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/example/startup/b16fivecircle.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/example/startup/b16fourcircle_you_engine.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/example/startup/i10fourcircle.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/example/startup/sixcircle.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/example/startup/sixcircle_api.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/example/startup/sixcircle_vrmldummy.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/mock.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/model/README.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/model/fivec.fxw" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/model/fivec.wcfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/model/fivec.wrl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/model/sixc.fxw" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/model/sixc.wcfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/model/sixc.wrl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/model/sixc_horizontal.fxw" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/model/sixc_horizontal.wrl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/model/vrml_animator.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/numjy/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/numjy/jama_matrix_wrapper.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/numjy/linalg.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/simplejson/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/simplejson/_speedups.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/simplejson/decoder.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/simplejson/encoder.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/simplejson/ordered_dict.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/simplejson/scanner.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/simplejson/tool.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/gdasupport/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/gdasupport/minigda/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/gdasupport/minigda/test_command.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/gdasupport/minigda/test_scannable.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/gdasupport/scannable/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/gdasupport/scannable/mockdiffcalc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/gdasupport/scannable/test_diffractometer.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/gdasupport/scannable/test_hkl.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/gdasupport/scannable/test_parameter.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/gdasupport/scannable/test_simulation.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/gdasupport/scannable/test_wavelength.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/gdasupport/test_factory.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/gdasupport/test_you_factory_integration.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/hkl/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/hkl/vlieg/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/hkl/vlieg/test_calc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/hkl/vlieg/test_commands.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/hkl/vlieg/test_constraints.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/hkl/vlieg/test_geometry.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/hkl/vlieg/test_transform.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/hkl/willmot/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/hkl/willmot/test_calcwill.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/hkl/you/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/hkl/you/test_calc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/hkl/you/test_calc_methods.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/hkl/you/test_calc_surface.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/hkl/you/test_commands.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/hkl/you/test_constraints.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/scenarios.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/test_diffcalc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/test_hardware.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/test_utils.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/test_vlieg_integration.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/test_you_integration.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/ub/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/ub/test_calculation.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/ub/test_calculation_vlieg.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/ub/test_calculation_you.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/ub/test_commands.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/ub/test_crystal.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/ub/test_persistence.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/ub/test_reference.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/ub/test_reflections.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/ref/b16_dif_270608_printout_for_SixCircleGammaOnArmTestAgainstDif.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/ref/i16_reference_results.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/ref/output_from_spec.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/test_example.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/test_numjy.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/test_tools.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/tools.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/todo.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demoCSX/__init__.py" afterPath="$PROJECT_DIR$/demoCSX/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demoCSX/config/__init__.py" afterPath="$PROJECT_DIR$/demoCSX/config/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demoCSX/session_init/__init__.py" afterPath="$PROJECT_DIR$/demoCSX/session_init/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demoCSX/session/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/arkilic.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demoCSX/commands/diffcalc.py" afterPath="$PROJECT_DIR$/demoCSX/commands/diffcalc_commands.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/demo.iml" afterPath="$PROJECT_DIR$/.idea/demo.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demoCSX/session_init/diffcalc_session.py" afterPath="$PROJECT_DIR$/demoCSX/session_init/diffcalc_session.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="demo.iws" />
@@ -201,7 +36,8 @@
           <file leaf-file-name="demo_confParser.py" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/demoCSX/config/demo_confParser.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="27" column="10" selection-start="649" selection-end="659" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="810">
+                <state vertical-scroll-proportion="0.0" vertical-offset="486" max-vertical-offset="972">
+                  <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
                   <folding />
                 </state>
               </provider>
@@ -210,7 +46,8 @@
           <file leaf-file-name="startup.py" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/demoCSX/session_init/startup.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="3" column="0" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="135">
+                <state vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="162">
+                  <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -219,18 +56,20 @@
           <file leaf-file-name="diffcalc_session.py" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/demoCSX/session_init/diffcalc_session.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="2" column="12" selection-start="29" selection-end="36" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="735">
+                <state vertical-scroll-proportion="0.0" vertical-offset="36" max-vertical-offset="270">
+                  <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="diffcalc.py" pinned="false" current="true" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/demoCSX/commands/diffcalc.py">
+          <file leaf-file-name="diffcalc_commands.py" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/demoCSX/commands/diffcalc_commands.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="15" column="24" selection-start="464" selection-end="464" vertical-scroll-proportion="0.23388773" vertical-offset="0" max-vertical-offset="962">
+                <state vertical-scroll-proportion="2.5106382" vertical-offset="0" max-vertical-offset="2808">
+                  <caret line="118" column="17" selection-start-line="118" selection-start-column="17" selection-end-line="118" selection-end-column="17" />
                   <folding>
-                    <element signature="e#25#29#0" expanded="true" />
+                    <element signature="e#25#71#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -239,16 +78,8 @@
           <file leaf-file-name="scans.py" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/demoCSX/commands/scans.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="hardware.py" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/diffcalc/hardware.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="294" column="11" selection-start="10301" selection-end="10313" vertical-scroll-proportion="0.0" vertical-offset="4410" max-vertical-offset="5640">
+                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="126">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -257,7 +88,8 @@
           <file leaf-file-name="motor_session.py" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/demoCSX/session_init/motor_session.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="126">
+                  <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -266,7 +98,8 @@
           <file leaf-file-name="areadetector_session.py" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/demoCSX/session_init/areadetector_session.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="126">
+                  <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -279,17 +112,21 @@
           <file leaf-file-name="demoCSX.conf" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/demoCSX.conf">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="9" column="16" selection-start="99" selection-end="99" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="540">
+                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="648">
+                  <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="diffcalc_session.py" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="diffcalc_session.py" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/demoCSX/session_init/diffcalc_session.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="14" column="0" selection-start="577" selection-end="577" vertical-scroll-proportion="0.19817074" vertical-offset="0" max-vertical-offset="984">
-                  <folding />
+                <state vertical-scroll-proportion="0.14893617" vertical-offset="0" max-vertical-offset="846">
+                  <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+                  <folding>
+                    <element signature="e#24#68#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -321,15 +158,32 @@
         <option value="$PROJECT_DIR$/demoCSX/commands/scans.py" />
         <option value="$PROJECT_DIR$/demoCSX/diffcalc/hardware.py" />
         <option value="$PROJECT_DIR$/demoCSX/commands/diffcalc.py" />
+        <option value="$PROJECT_DIR$/demoCSX/commands/mydiffcalc.py" />
         <option value="$PROJECT_DIR$/demoCSX/session_init/diffcalc_session.py" />
+        <option value="$PROJECT_DIR$/demoCSX/commands/diffcalc_commands.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2766" />
-    <option name="y" value="122" />
+    <option name="y" value="22" />
     <option name="width" value="2560" />
-    <option name="height" value="1146" />
+    <option name="height" value="1334" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Buildout</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -345,7 +199,7 @@
     <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -372,7 +226,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="demo" />
+              <option name="myItemId" value="demoCSX" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -382,7 +236,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="demo" />
+              <option name="myItemId" value="demoCSX" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -396,7 +250,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="demo" />
+              <option name="myItemId" value="demoCSX" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -414,7 +268,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="demoCSX" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demoCSX" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="session" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
               <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demoCSX" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -432,7 +304,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="demo" />
+              <option name="myItemId" value="demoCSX" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -450,12 +322,28 @@
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PythonSdkConfigurable" />
+    <property name="options.lastSelected" value="appearance" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
     <property name="recentsLimit" value="5" />
     <property name="FullScreen" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/diffcalc" />
+    <property name="last_opened_file_path" value="/opt/local/bin/python" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="426" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="427" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="431" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="1225" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="426" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="427" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="431" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="1225" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -467,7 +355,7 @@
       <recent name="$PROJECT_DIR$/demoCSX" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.diffcalc">
+  <component name="RunManager" selected="Python.diffcalc_session">
     <configuration default="false" name="startup" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -518,7 +406,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="demo" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demoCSX/commands/diffcalc.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demoCSX/commands/diffcalc_commands.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -538,6 +426,30 @@
       <module name="demo" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demoCSX/diffcalc/hardware.py" />
       <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests in demoCSX" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="demo" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="$PROJECT_DIR$" />
+      <option name="TEST_TYPE" value="TEST_FOLDER" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
@@ -683,39 +595,27 @@
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <list size="5">
+    <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.demo_confParser" />
       <item index="1" class="java.lang.String" itemvalue="Python.startup" />
       <item index="2" class="java.lang.String" itemvalue="Python.diffcalc_session" />
       <item index="3" class="java.lang.String" itemvalue="Python.diffcalc" />
       <item index="4" class="java.lang.String" itemvalue="Python.hardware" />
+      <item index="5" class="java.lang.String" itemvalue="Python tests.Unittests in demoCSX" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.diffcalc" />
-        <item index="1" class="java.lang.String" itemvalue="Python.diffcalc_session" />
-        <item index="2" class="java.lang.String" itemvalue="Python.hardware" />
-        <item index="3" class="java.lang.String" itemvalue="Python.startup" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.diffcalc_session" />
+        <item index="1" class="java.lang.String" itemvalue="Python.diffcalc" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in demoCSX" />
+        <item index="3" class="java.lang.String" itemvalue="Python.hardware" />
+        <item index="4" class="java.lang.String" itemvalue="Python.startup" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
-  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
-    <option name="USER" value="" />
-    <option name="PASSWORD" value="" />
-    <option name="mySSHConnectionTimeout" value="30000" />
-    <option name="mySSHReadTimeout" value="30000" />
-    <option name="LAST_MERGED_REVISION" />
-    <option name="MERGE_DRY_RUN" value="false" />
-    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
-    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
-    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
-    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
-    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
-    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
-    <option name="FORCE_UPDATE" value="false" />
-    <option name="IGNORE_EXTERNALS" value="false" />
-    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  <component name="SvnConfiguration" myUseAcceleration="nothing">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -726,27 +626,36 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2766" y="122" width="2560" height="1146" extended-state="0" />
+    <frame x="0" y="22" width="2560" height="1334" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.09253376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.09216227" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32920536" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Mongo Runner" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29667002" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2962963" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32930756" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Runner" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32988626" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
       <collection />
     </option>
   </component>
@@ -765,311 +674,432 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/demoCSX/session_init/motor_session.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="126">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoCSX/session_init/areadetector_session.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="126">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoCSX.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="648">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoCSX/session_init/diffcalc_session.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="36" max-vertical-offset="882">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          <folding>
+            <element signature="e#24#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/demoCSX/config/demo_confParser.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="10" selection-start="649" selection-end="659" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="810">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="972">
+          <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demoCSX/session_init/startup.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="135">
+        <state vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="162">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demoCSX/commands/diffcalc.py">
+    <entry file="file://$PROJECT_DIR$/demoCSX/commands/diffcalc_commands.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="4" selection-start="25" selection-end="30" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="705">
+        <state vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="846">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
           <folding>
-            <element signature="e#25#29#0" expanded="true" />
+            <element signature="e#25#71#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demoCSX/commands/scans.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/diffcalc/hardware.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="294" column="11" selection-start="10301" selection-end="10313" vertical-scroll-proportion="0.0" vertical-offset="4410" max-vertical-offset="5640">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="126">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demoCSX/session_init/motor_session.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="126">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demoCSX/session_init/areadetector_session.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="126">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demoCSX.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="16" selection-start="99" selection-end="99" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="540">
+        <state vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="648">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demoCSX/session_init/diffcalc_session.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="12" selection-start="29" selection-end="36" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="735">
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="36" max-vertical-offset="882">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          <folding>
+            <element signature="e#24#68#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demoCSX/config/demo_confParser.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="10" selection-start="649" selection-end="659" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="810">
+        <state vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="810">
+          <caret line="27" column="10" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demoCSX/session_init/startup.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="135">
+        <state vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="135">
+          <caret line="3" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demoCSX/commands/diffcalc.py">
+    <entry file="file://$PROJECT_DIR$/demoCSX/commands/diffcalc_commands.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="16" selection-start="1105" selection-end="1105" vertical-scroll-proportion="0.0" vertical-offset="525" max-vertical-offset="600">
+        <state vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="705">
+          <caret line="3" column="4" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#25#29#0" expanded="true" />
+            <element signature="e#25#71#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demoCSX/commands/scans.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/diffcalc/hardware.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="294" column="11" selection-start="10301" selection-end="10313" vertical-scroll-proportion="0.0" vertical-offset="4410" max-vertical-offset="5640">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demoCSX/session_init/motor_session.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demoCSX/session_init/areadetector_session.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demoCSX.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="16" selection-start="99" selection-end="99" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+        <state vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="540">
+          <caret line="9" column="16" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demoCSX/session_init/diffcalc_session.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="12" selection-start="29" selection-end="36" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="750">
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="735">
+          <caret line="2" column="12" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#68#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demoCSX/config/demo_confParser.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="10" selection-start="649" selection-end="659" vertical-scroll-proportion="0.0" vertical-offset="167" max-vertical-offset="810">
+        <state vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="810">
+          <caret line="27" column="10" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demoCSX/session_init/startup.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="135">
+        <state vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="135">
+          <caret line="3" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demoCSX/session_init/diffcalc_session.py">
+    <entry file="file://$PROJECT_DIR$/demoCSX/commands/diffcalc_commands.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="27" selection-start="651" selection-end="651" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="585">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demoCSX/commands/diffcalc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+        <state vertical-scroll-proportion="0.0" vertical-offset="525" max-vertical-offset="600">
+          <caret line="35" column="16" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#25#29#0" expanded="true" />
+            <element signature="e#25#71#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demoCSX/commands/scans.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/diffcalc/hardware.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="281" column="6" selection-start="9924" selection-end="9924" vertical-scroll-proportion="0.0" vertical-offset="4215" max-vertical-offset="5640">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demoCSX/session_init/motor_session.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demoCSX/session_init/areadetector_session.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demoCSX.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="0" selection-start="0" selection-end="387" vertical-scroll-proportion="0.0" vertical-offset="450" max-vertical-offset="540">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demoCSX/config/demo_confParser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="22" selection-start="936" selection-end="936" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="810">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demoCSX/session_init/startup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="26" selection-start="96" selection-end="96" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="150">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demoCSX.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="0" selection-start="387" selection-end="387" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demoCSX/config/demo_confParser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="30" selection-end="30" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="810">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demoCSX.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="11" selection-start="354" selection-end="354" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="540">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demoCSX/config/demo_confParser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="35" selection-start="273" selection-end="273" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="810">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demoCSX.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="11" selection-start="354" selection-end="354" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="540">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demoCSX.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="16" selection-start="99" selection-end="99" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="540">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demoCSX/config/demo_confParser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="10" selection-start="649" selection-end="659" vertical-scroll-proportion="0.0" vertical-offset="167" max-vertical-offset="810">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demoCSX/session_init/startup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demoCSX/commands/scans.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1173">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demoCSX/session_init/areadetector_session.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1241">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/diffcalc/hardware.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="294" column="11" selection-start="10301" selection-end="10313" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5610">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demoCSX/session_init/motor_session.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1241">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+          <caret line="9" column="16" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demoCSX/session_init/diffcalc_session.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="12" selection-start="29" selection-end="36" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="735">
+        <state vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="750">
+          <caret line="2" column="12" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoCSX/config/demo_confParser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="167" max-vertical-offset="810">
+          <caret line="27" column="10" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demoCSX/commands/diffcalc.py">
+    <entry file="file://$PROJECT_DIR$/demoCSX/session_init/startup.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="24" selection-start="464" selection-end="464" vertical-scroll-proportion="0.23388773" vertical-offset="0" max-vertical-offset="962">
+        <state vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="135">
+          <caret line="3" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoCSX/session_init/diffcalc_session.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="585">
+          <caret line="22" column="27" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#25#29#0" expanded="true" />
+            <element signature="e#24#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoCSX/commands/diffcalc_commands.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#25#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoCSX/commands/scans.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoCSX/session_init/motor_session.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoCSX/session_init/areadetector_session.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoCSX.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="450" max-vertical-offset="540">
+          <caret line="30" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoCSX/config/demo_confParser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="810">
+          <caret line="32" column="22" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoCSX/session_init/startup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="150">
+          <caret line="4" column="26" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoCSX.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+          <caret line="30" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoCSX/config/demo_confParser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="810">
+          <caret line="2" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoCSX.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="540">
+          <caret line="27" column="11" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoCSX/config/demo_confParser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="810">
+          <caret line="9" column="35" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoCSX.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="540">
+          <caret line="27" column="11" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoCSX/config/demo_confParser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="486" max-vertical-offset="972">
+          <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoCSX/session_init/startup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="162">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoCSX.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="648">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoCSX/commands/scans.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1173">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoCSX/session_init/areadetector_session.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="126">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoCSX/session_init/motor_session.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="126">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoCSX/commands/diffcalc_commands.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.5106382" vertical-offset="0" max-vertical-offset="2808">
+          <caret line="118" column="17" selection-start-line="118" selection-start-column="17" selection-end-line="118" selection-end-column="17" />
+          <folding>
+            <element signature="e#25#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoCSX/session_init/diffcalc_session.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14893617" vertical-offset="0" max-vertical-offset="846">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+          <folding>
+            <element signature="e#24#68#0" expanded="true" />
           </folding>
         </state>
       </provider>
