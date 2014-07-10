@@ -2,172 +2,177 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b419960-b2b9-479f-b1cb-57e2ae211e3d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/doc/source/diffcalc_pdf.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/doc/source/diffcalc_web.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/model/fivec.fxw" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/doc/source/user/images/fix.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/model/sixc.fxw" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/model/sixc_horizontal.fxw" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/doc/source/user/images/sixcircle_gamma_on_arm.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/doc/source/user/images/sixcircle_gamma_on_arm.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/doc/source/user/images/sixcircle_gamma_on_arm.ppt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/doc/source/user/images/unit_cell.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/doc/source/user/images/unit_cell.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/doc/source/developer/ACKS.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/doc/source/user/ACKS.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/doc/ACKS_diffcalc.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/COPYING" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/doc/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/model/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/diffcalc/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/diffcalc/gdasupport/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/diffcalc/gdasupport/minigda/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/diffcalc/gdasupport/scannable/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/diffcalc/hkl/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/diffcalc/hkl/vlieg/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/diffcalc/hkl/willmott/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/diffcalc/hkl/you/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/diffcalc/ub/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/numjy/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/simplejson/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/test/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/test/diffcalc/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/test/diffcalc/gdasupport/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/test/diffcalc/gdasupport/minigda/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/test/diffcalc/gdasupport/scannable/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/test/diffcalc/hkl/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/test/diffcalc/hkl/vlieg/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/test/diffcalc/hkl/willmot/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/test/diffcalc/hkl/you/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/test/diffcalc/ub/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/simplejson/_speedups.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/example/startup/append_diffcalc_to_gda_jython_path.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/test/ref/b16_dif_270608_printout_for_SixCircleGammaOnArmTestAgainstDif.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/example/startup/b16fivecircle.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/example/startup/b16fourcircle_you_engine.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/diffcalc/gdasupport/scannable/base.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/buckminster.cspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/diffcalc/hkl/vlieg/calc.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/diffcalc/hkl/willmott/calc.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/diffcalc/hkl/you/calc.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/diffcalc/ub/calc.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/diffcalc/hkl/calcbase.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/diffcalc/ub/calcstate.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/.settings/com.wdev91.eclipse.copyright.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/diffcalc/gdasupport/minigda/command.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/diffcalc/hkl/vlieg/commands.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/diffcalc/hkl/willmott/commands.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/diffcalc/hkl/you/commands.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/diffcalc/ub/commands.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/diffcalc/hkl/common.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/doc/source/conf.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/diffcalc/hkl/vlieg/constraints.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/diffcalc/hkl/willmott/constraints.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/diffcalc/hkl/you/constraints.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/doc/tmp/constraints.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/doc/source/developer/contents.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/doc/source/user/contents.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/diffcalc/ub/crystal.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/simplejson/decoder.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/example/session/demo_fourc_diffcalc_session.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/doc/source/developer/development.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/diffcalc/diffcalc_.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/diffcalc/gdasupport/scannable/diffractometer.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/doc/docs-build-diffcalc_doc-linux.launch" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/simplejson/encoder.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/doc/tmp/extensions_to_yous_paper.wxm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/diffcalc/gdasupport/factory.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/model/fivec.wcfg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/model/fivec.wrl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/diffcalc/hkl/vlieg/geometry.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/diffcalc/hkl/you/geometry.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/diffcalc/hardware.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/diffcalc/gdasupport/scannable/hkl.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/example/startup/i10fourcircle.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/doc/tmp/i16_non_diffcalc_manual.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/test/ref/i16_reference_results.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/doc/source/index.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/doc/source/developer/intro.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/numjy/jama_matrix_wrapper.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/numjy/linalg.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/diffcalc/log.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/doc/source/user/manual.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/mock.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/diffcalc/gdasupport/scannable/mock.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/test/diffcalc/gdasupport/scannable/mockdiffcalc.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/simplejson/ordered_dict.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/.settings/org.eclipse.core.resources.prefs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/.settings/org.eclipse.core.runtime.prefs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/test/ref/output_from_spec.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/doc/source/developer/package.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/diffcalc/gdasupport/scannable/parameter.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/diffcalc/ub/persistence.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/doc/source/developer/quickstart_api.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/doc/source/developer/quickstart_gda.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/doc/source/developer/quickstart_scan.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/doc/source/developer/quickstart_setup_environment" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/diffcalc/ub/reference.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/doc/references" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/diffcalc/ub/reflections.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/diffcalc/gdasupport/minigda/scannable.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/simplejson/scanner.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/test/diffcalc/scenarios.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/diffcalc/gdasupport/scannable/simulation.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/model/sixc.wcfg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/model/sixc.wrl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/model/sixc_horizontal.wrl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/example/startup/sixcircle.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/example/startup/sixcircle_api.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/example/startup/sixcircle_vrmldummy.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/diffcalc/gdasupport/scannable/slave_driver.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/test/diffcalc/hkl/vlieg/test_calc.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/test/diffcalc/hkl/you/test_calc.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/test/diffcalc/hkl/you/test_calc_methods.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/test/diffcalc/hkl/you/test_calc_surface.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/test/diffcalc/ub/test_calculation.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/test/diffcalc/ub/test_calculation_vlieg.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/test/diffcalc/ub/test_calculation_you.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/test/diffcalc/hkl/willmot/test_calcwill.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/test/diffcalc/gdasupport/minigda/test_command.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/test/diffcalc/hkl/vlieg/test_commands.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/test/diffcalc/hkl/you/test_commands.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/test/diffcalc/ub/test_commands.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/test/diffcalc/hkl/vlieg/test_constraints.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/test/diffcalc/hkl/you/test_constraints.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/test/diffcalc/ub/test_crystal.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/test/diffcalc/test_diffcalc.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/test/diffcalc/gdasupport/scannable/test_diffractometer.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/test/test_example.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/test/diffcalc/gdasupport/test_factory.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/test/diffcalc/hkl/vlieg/test_geometry.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/test/diffcalc/test_hardware.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/test/diffcalc/gdasupport/scannable/test_hkl.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/test/test_numjy.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/test/diffcalc/gdasupport/scannable/test_parameter.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/test/diffcalc/ub/test_persistence.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/test/diffcalc/ub/test_reference.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/test/diffcalc/ub/test_reflections.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/test/diffcalc/gdasupport/minigda/test_scannable.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/test/diffcalc/gdasupport/scannable/test_simulation.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/test/test_tools.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/test/diffcalc/hkl/vlieg/test_transform.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/test/diffcalc/test_utils.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/test/diffcalc/test_vlieg_integration.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/test/diffcalc/gdasupport/scannable/test_wavelength.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/test/diffcalc/gdasupport/test_you_factory_integration.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/test/diffcalc/test_you_integration.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/todo.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/simplejson/tool.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/test/tools.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/diffcalc/hkl/vlieg/transform.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/diffcalc/util.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/model/vrml_animator.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/diffcalc/gdasupport/scannable/vrmlanimator.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diffcalc/diffcalc/gdasupport/scannable/wavelength.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/__init__.py" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demoCSX/commands/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demoCSX/commands/diffcalc.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demoCSX/commands/scans.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/.settings/com.wdev91.eclipse.copyright.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/.settings/org.eclipse.core.resources.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/.settings/org.eclipse.core.runtime.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/COPYING" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/buckminster.cspec" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/diffcalc_.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/gdasupport/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/gdasupport/factory.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/gdasupport/minigda/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/gdasupport/minigda/command.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/gdasupport/minigda/scannable.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/gdasupport/scannable/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/gdasupport/scannable/base.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/gdasupport/scannable/diffractometer.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/gdasupport/scannable/hkl.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/gdasupport/scannable/mock.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/gdasupport/scannable/parameter.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/gdasupport/scannable/simulation.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/gdasupport/scannable/slave_driver.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/gdasupport/scannable/vrmlanimator.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/gdasupport/scannable/wavelength.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/hardware.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/hkl/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/hkl/calcbase.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/hkl/common.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/hkl/vlieg/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/hkl/vlieg/calc.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/hkl/vlieg/commands.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/hkl/vlieg/constraints.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/hkl/vlieg/geometry.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/hkl/vlieg/transform.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/hkl/willmott/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/hkl/willmott/calc.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/hkl/willmott/commands.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/hkl/willmott/constraints.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/hkl/you/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/hkl/you/calc.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/hkl/you/commands.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/hkl/you/constraints.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/hkl/you/geometry.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/log.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/ub/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/ub/calc.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/ub/calcstate.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/ub/commands.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/ub/crystal.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/ub/persistence.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/ub/reference.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/ub/reflections.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/diffcalc/util.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/ACKS_diffcalc.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/docs-build-diffcalc_doc-linux.launch" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/references" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/source/conf.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/source/developer/ACKS.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/source/developer/contents.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/source/developer/development.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/source/developer/intro.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/source/developer/package.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/source/developer/quickstart_api.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/source/developer/quickstart_gda.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/source/developer/quickstart_scan.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/source/developer/quickstart_setup_environment" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/source/diffcalc_pdf.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/source/diffcalc_web.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/source/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/source/user/ACKS.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/source/user/contents.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/source/user/images/fix.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/source/user/images/sixcircle_gamma_on_arm.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/source/user/images/sixcircle_gamma_on_arm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/source/user/images/sixcircle_gamma_on_arm.ppt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/source/user/images/unit_cell.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/source/user/images/unit_cell.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/source/user/manual.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/tmp/constraints.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/tmp/extensions_to_yous_paper.wxm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/doc/tmp/i16_non_diffcalc_manual.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/example/session/demo_fourc_diffcalc_session.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/example/startup/append_diffcalc_to_gda_jython_path.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/example/startup/b16fivecircle.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/example/startup/b16fourcircle_you_engine.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/example/startup/i10fourcircle.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/example/startup/sixcircle.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/example/startup/sixcircle_api.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/example/startup/sixcircle_vrmldummy.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/mock.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/model/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/model/fivec.fxw" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/model/fivec.wcfg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/model/fivec.wrl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/model/sixc.fxw" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/model/sixc.wcfg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/model/sixc.wrl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/model/sixc_horizontal.fxw" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/model/sixc_horizontal.wrl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/model/vrml_animator.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/numjy/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/numjy/jama_matrix_wrapper.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/numjy/linalg.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/simplejson/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/simplejson/_speedups.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/simplejson/decoder.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/simplejson/encoder.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/simplejson/ordered_dict.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/simplejson/scanner.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/simplejson/tool.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/gdasupport/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/gdasupport/minigda/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/gdasupport/minigda/test_command.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/gdasupport/minigda/test_scannable.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/gdasupport/scannable/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/gdasupport/scannable/mockdiffcalc.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/gdasupport/scannable/test_diffractometer.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/gdasupport/scannable/test_hkl.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/gdasupport/scannable/test_parameter.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/gdasupport/scannable/test_simulation.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/gdasupport/scannable/test_wavelength.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/gdasupport/test_factory.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/gdasupport/test_you_factory_integration.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/hkl/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/hkl/vlieg/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/hkl/vlieg/test_calc.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/hkl/vlieg/test_commands.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/hkl/vlieg/test_constraints.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/hkl/vlieg/test_geometry.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/hkl/vlieg/test_transform.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/hkl/willmot/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/hkl/willmot/test_calcwill.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/hkl/you/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/hkl/you/test_calc.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/hkl/you/test_calc_methods.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/hkl/you/test_calc_surface.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/hkl/you/test_commands.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/hkl/you/test_constraints.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/scenarios.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/test_diffcalc.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/test_hardware.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/test_utils.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/test_vlieg_integration.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/test_you_integration.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/ub/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/ub/test_calculation.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/ub/test_calculation_vlieg.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/ub/test_calculation_you.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/ub/test_commands.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/ub/test_crystal.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/ub/test_persistence.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/ub/test_reference.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/diffcalc/ub/test_reflections.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/ref/b16_dif_270608_printout_for_SixCircleGammaOnArmTestAgainstDif.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/ref/i16_reference_results.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/ref/output_from_spec.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/test_example.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/test_numjy.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/test_tools.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/test/tools.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diffcalc/todo.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demoCSX/__init__.py" afterPath="$PROJECT_DIR$/demoCSX/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demoCSX/session_init/startup.py" afterPath="$PROJECT_DIR$/demoCSX/session_init/startup.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demoCSX/config/__init__.py" afterPath="$PROJECT_DIR$/demoCSX/config/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demoCSX/session_init/__init__.py" afterPath="$PROJECT_DIR$/demoCSX/session_init/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demoCSX/session_init/diffcalc_session.py" afterPath="$PROJECT_DIR$/demoCSX/session_init/diffcalc_session.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="demo.iws" />
@@ -196,7 +201,7 @@
           <file leaf-file-name="demo_confParser.py" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/demoCSX/config/demo_confParser.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="27" column="10" selection-start="649" selection-end="659" vertical-scroll-proportion="0.0" vertical-offset="167" max-vertical-offset="810">
+                <state line="27" column="10" selection-start="649" selection-end="659" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="810">
                   <folding />
                 </state>
               </provider>
@@ -205,16 +210,36 @@
           <file leaf-file-name="startup.py" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/demoCSX/session_init/startup.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="3" column="0" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135">
+                <state line="3" column="0" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="135">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="diffcalc_session.py" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="diffcalc_session.py" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/demoCSX/session_init/diffcalc_session.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="3" column="15" selection-start="84" selection-end="84" vertical-scroll-proportion="0.047872342" vertical-offset="0" max-vertical-offset="940">
+                <state line="2" column="12" selection-start="29" selection-end="36" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="735">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="diffcalc.py" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/demoCSX/commands/diffcalc.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="15" column="24" selection-start="464" selection-end="464" vertical-scroll-proportion="0.23388773" vertical-offset="0" max-vertical-offset="962">
+                  <folding>
+                    <element signature="e#25#29#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="scans.py" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/demoCSX/commands/scans.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
                   <folding />
                 </state>
               </provider>
@@ -223,7 +248,7 @@
           <file leaf-file-name="hardware.py" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/diffcalc/hardware.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="281" column="6" selection-start="9924" selection-end="9924" vertical-scroll-proportion="0.0" vertical-offset="3971" max-vertical-offset="5610">
+                <state line="294" column="11" selection-start="10301" selection-end="10313" vertical-scroll-proportion="0.0" vertical-offset="4410" max-vertical-offset="5640">
                   <folding />
                 </state>
               </provider>
@@ -251,10 +276,19 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="demoCSX.conf" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="demoCSX.conf" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/demoCSX.conf">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="26" column="0" selection-start="342" selection-end="342" vertical-scroll-proportion="0.4262295" vertical-offset="0" max-vertical-offset="915">
+                <state line="9" column="16" selection-start="99" selection-end="99" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="540">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="diffcalc_session.py" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/demoCSX/session_init/diffcalc_session.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="14" column="0" selection-start="577" selection-end="577" vertical-scroll-proportion="0.19817074" vertical-offset="0" max-vertical-offset="984">
                   <folding />
                 </state>
               </provider>
@@ -270,6 +304,11 @@
     </FindUsagesManager>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="arkilic" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -278,14 +317,19 @@
         <option value="$PROJECT_DIR$/demoCSX/config/demo_confParser.py" />
         <option value="$PROJECT_DIR$/demoCSX/session_init/motor_session.py" />
         <option value="$PROJECT_DIR$/demoCSX/session_init/areadetector_session.py" />
-        <option value="$PROJECT_DIR$/demoCSX/session_init/diffcalc_session.py" />
         <option value="$PROJECT_DIR$/demoCSX/session_init/startup.py" />
+        <option value="$PROJECT_DIR$/demoCSX/commands/scans.py" />
+        <option value="$PROJECT_DIR$/demoCSX/diffcalc/hardware.py" />
+        <option value="$PROJECT_DIR$/demoCSX/commands/diffcalc.py" />
+        <option value="$PROJECT_DIR$/demoCSX/session_init/diffcalc_session.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="2766" />
+    <option name="y" value="122" />
     <option name="width" value="2560" />
-    <option name="height" value="1379" />
+    <option name="height" value="1146" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -313,6 +357,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -341,7 +386,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="diffcalc" />
+              <option name="myItemId" value="demoCSX" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -358,10 +403,49 @@
               <option name="myItemId" value="demoCSX" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="session_init" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demoCSX" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demoCSX" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="commands" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -383,7 +467,7 @@
       <recent name="$PROJECT_DIR$/demoCSX" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.diffcalc_session">
+  <component name="RunManager" selected="Python.diffcalc">
     <configuration default="false" name="startup" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -415,6 +499,44 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="demo" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demoCSX/session_init/diffcalc_session.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="diffcalc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demoCSX/commands" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="demo" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demoCSX/commands/diffcalc.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="hardware" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demoCSX/diffcalc" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="demo" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demoCSX/diffcalc/hardware.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -561,15 +683,19 @@
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <list size="3">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.demo_confParser" />
       <item index="1" class="java.lang.String" itemvalue="Python.startup" />
       <item index="2" class="java.lang.String" itemvalue="Python.diffcalc_session" />
+      <item index="3" class="java.lang.String" itemvalue="Python.diffcalc" />
+      <item index="4" class="java.lang.String" itemvalue="Python.hardware" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.diffcalc_session" />
-        <item index="1" class="java.lang.String" itemvalue="Python.startup" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.diffcalc" />
+        <item index="1" class="java.lang.String" itemvalue="Python.diffcalc_session" />
+        <item index="2" class="java.lang.String" itemvalue="Python.hardware" />
+        <item index="3" class="java.lang.String" itemvalue="Python.startup" />
       </list>
     </recent_temporary>
   </component>
@@ -600,22 +726,23 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="2560" height="1379" extended-state="0" />
+    <frame x="2766" y="122" width="2560" height="1146" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295325" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Mongo Runner" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.09253376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23617694" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32920536" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Mongo Runner" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29667002" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32988626" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -631,11 +758,208 @@
       <TodoPanelSettings />
     </option>
     <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+    <MESSAGE value="diffcalc session init added and functional. TODO: motor and areadetector instance initiation and linking diffcalc hardware aliases with motor names" />
+    <option name="LAST_COMMIT_MESSAGE" value="diffcalc session init added and functional. TODO: motor and areadetector instance initiation and linking diffcalc hardware aliases with motor names" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/demoCSX/config/demo_confParser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="10" selection-start="649" selection-end="659" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="810">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoCSX/session_init/startup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="135">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoCSX/commands/diffcalc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="4" selection-start="25" selection-end="30" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="705">
+          <folding>
+            <element signature="e#25#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoCSX/commands/scans.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/diffcalc/hardware.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="294" column="11" selection-start="10301" selection-end="10313" vertical-scroll-proportion="0.0" vertical-offset="4410" max-vertical-offset="5640">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoCSX/session_init/motor_session.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoCSX/session_init/areadetector_session.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoCSX.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="16" selection-start="99" selection-end="99" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="540">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoCSX/session_init/diffcalc_session.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="12" selection-start="29" selection-end="36" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="735">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoCSX/config/demo_confParser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="10" selection-start="649" selection-end="659" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="810">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoCSX/session_init/startup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="135">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoCSX/commands/diffcalc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="16" selection-start="1105" selection-end="1105" vertical-scroll-proportion="0.0" vertical-offset="525" max-vertical-offset="600">
+          <folding>
+            <element signature="e#25#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoCSX/commands/scans.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/diffcalc/hardware.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="294" column="11" selection-start="10301" selection-end="10313" vertical-scroll-proportion="0.0" vertical-offset="4410" max-vertical-offset="5640">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoCSX/session_init/motor_session.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoCSX/session_init/areadetector_session.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoCSX.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="16" selection-start="99" selection-end="99" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoCSX/session_init/diffcalc_session.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="12" selection-start="29" selection-end="36" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="750">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoCSX/config/demo_confParser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="10" selection-start="649" selection-end="659" vertical-scroll-proportion="0.0" vertical-offset="167" max-vertical-offset="810">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoCSX/session_init/startup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="135">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoCSX/session_init/diffcalc_session.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="27" selection-start="651" selection-end="651" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="585">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoCSX/commands/diffcalc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+          <folding>
+            <element signature="e#25#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoCSX/commands/scans.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/diffcalc/hardware.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="281" column="6" selection-start="9924" selection-end="9924" vertical-scroll-proportion="0.0" vertical-offset="4215" max-vertical-offset="5640">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoCSX/session_init/motor_session.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoCSX/session_init/areadetector_session.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoCSX.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="0" selection-start="0" selection-end="387" vertical-scroll-proportion="0.0" vertical-offset="450" max-vertical-offset="540">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/demoCSX/config/demo_confParser.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="32" column="22" selection-start="936" selection-end="936" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="810">
@@ -685,23 +1009,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/demoCSX.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="16" selection-start="99" selection-end="99" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="540">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/demoCSX/config/demo_confParser.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="27" column="10" selection-start="649" selection-end="659" vertical-scroll-proportion="0.0" vertical-offset="167" max-vertical-offset="810">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/diffcalc/hardware.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="281" column="6" selection-start="9924" selection-end="9924" vertical-scroll-proportion="0.0" vertical-offset="3971" max-vertical-offset="5610">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demoCSX.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="0" selection-start="342" selection-end="342" vertical-scroll-proportion="0.4262295" vertical-offset="0" max-vertical-offset="915">
           <folding />
         </state>
       </provider>
@@ -713,9 +1030,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/demoCSX/commands/scans.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1173">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/demoCSX/session_init/areadetector_session.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1241">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/diffcalc/hardware.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="294" column="11" selection-start="10301" selection-end="10313" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5610">
           <folding />
         </state>
       </provider>
@@ -729,8 +1060,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/demoCSX/session_init/diffcalc_session.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="15" selection-start="84" selection-end="84" vertical-scroll-proportion="0.047872342" vertical-offset="0" max-vertical-offset="940">
+        <state line="2" column="12" selection-start="29" selection-end="36" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="735">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoCSX/commands/diffcalc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="24" selection-start="464" selection-end="464" vertical-scroll-proportion="0.23388773" vertical-offset="0" max-vertical-offset="962">
+          <folding>
+            <element signature="e#25#29#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
